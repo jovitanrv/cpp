@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1524487796 source:d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\buku.cpp
+	"BUKU.h"
+
+1524487796 d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\buku.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1524487796 source:d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\penulis.cpp
+	"PENULIS.h"
+
+1524487796 d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\penulis.h
+	<string>
+	"BUKU.h"
+
+1524362064 source:d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\relasi.cpp
+	"RELASI.h"
+
+1524487796 d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\relasi.h
+	"BUKU.h"
+	"PENULIS.h"
+
+1524497608 source:d:\tubes std ja2\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\main.cpp
+	<iostream>
+	"BUKU.h"
+	"PENULIS.h"
+	"RELASI.h"
+
+1524487796 source:d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\buku.cpp
+	"BUKU.h"
+
+1524487796 d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\buku.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1524591498 source:d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\main.cpp
+	<iostream>
+	"BUKU.h"
+	"PENULIS.h"
+	"RELASI.h"
+
+1524487796 d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\penulis.h
+	<string>
+	"BUKU.h"
+
+1524487796 d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\relasi.h
+	"BUKU.h"
+	"PENULIS.h"
+
+1524621649 source:d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\penulis.cpp
+	"PENULIS.h"
+
+1524591050 source:d:\if4102 - data buku dan penulis\if4102 - data buku dan penulis\muhammad athariq purbaya - jovita nurvania - 1301174155 - 1301174215\relasi.cpp
+	"RELASI.h"
+
